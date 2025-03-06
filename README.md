@@ -1,6 +1,6 @@
 # Prototype
 
-View the functionalities of the project here: [![GameAI](https://youtu.be/uPl7NP5Mmts)
+View the functionalities of the project here: <a>https://youtu.be/uPl7NP5Mmts</a>
 
 This project presents a prototype for a game. The game features a terrain consisting of multiple mountains (some of which are crossable, while others are not) and water (which is
 crossable). The game includes two types of NPCs, with three NPCs of each type, making a total of six. Each NPC has four different states, and there are six different types of items, with three instances of each type. Each item has unique characteristics. Players can use a pathfinding system to identify the paths to items and NPCs.

@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponentsEditor.csproj": {}
+  },
+  "projects": {
+    "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponents.csproj",
+        "projectName": "NavMeshComponents",
+        "projectPath": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponents.csproj",
+        "packagesPath": "/Users/sakeenjaleel/.nuget/packages/",
+        "outputPath": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/Temp/obj/Debug/NavMeshComponents/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sakeenjaleel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponentsEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponentsEditor.csproj",
+        "projectName": "NavMeshComponentsEditor",
+        "projectPath": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponentsEditor.csproj",
+        "packagesPath": "/Users/sakeenjaleel/.nuget/packages/",
+        "outputPath": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/Temp/obj/Debug/NavMeshComponentsEditor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sakeenjaleel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponents.csproj": {
+                "projectPath": "/Users/sakeenjaleel/Desktop/20211199_GameAI_Coursework1/GameAI/NavMeshComponents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

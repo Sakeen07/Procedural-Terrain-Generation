@@ -12,12 +12,12 @@ There is two different NPCs that two different behaviour.
 
 ### NPC1 State
 <p align = "center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/453fef5a-3393-4147-9316-2b9428255cc4" />
+<img width="300" alt="image" src="![Picture 1](https://github.com/user-attachments/assets/15ca5772-1eea-4b52-8c85-0dc6fe300973)" />
 </p>
 
 ### NPC2 State
 <p align = "center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/34e60101-bd95-49f4-b05f-8a6348821ce1" />
+<img width="300" alt="image" src="![Picture 2](https://github.com/user-attachments/assets/9d0fec3d-2de9-470f-807d-394f7193a089)" />
 </p>
 
 ### NPC Additional Behaviours
